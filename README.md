@@ -8,7 +8,7 @@ Välkommen till denna lilla demonstrationsfil i **Markdown**! Här visar vi hur 
 - Hon är en superstjärna i allt hon gör ✨
 
 ## Ett viktigt meddelande
-> *Pappa älskar dig massor, Julia!* ❤️  
+> *Pappa älskar dig Julia!* ❤️  
 >  
 > Du är världens bästa och det är helt vetenskapligt bevisat (…typ 😄).
 
